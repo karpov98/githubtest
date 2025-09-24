@@ -27,6 +27,7 @@ public class CollectionDemo {
         c1.forEach(s ->{
             System.out.println(s);
         });
+        XXXXX
 
 
 
